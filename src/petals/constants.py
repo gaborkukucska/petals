@@ -5,6 +5,6 @@ PUBLIC_INITIAL_PEERS = [
 ]
 
 # The reachability API is currently used only when connecting to the public swarm
-REACHABILITY_API_URL = "http://192.168.1.27:1111"
+REACHABILITY_API_URL = "http://192.168.1.14:1111"
 
 DTYPE_MAP = dict(bfloat16=torch.bfloat16, float16=torch.float16, float32=torch.float32, auto="auto")
