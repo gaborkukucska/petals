@@ -1,7 +1,7 @@
 import torch
 
 PUBLIC_INITIAL_PEERS = [
-    "/ip4/ai.gettingitalldone.com/tcp/31337/p2p/QmTbqDrBxCioZMYCjTUHu5GLVERw369VkY7fBTMiKFFDXu",
+    "/dns/ai.gettingitalldone.com/tcp/31337/p2p/QmTbqDrBxCioZMYCjTUHu5GLVERw369VkY7fBTMiKFFDXu",
 ]
 
 # The reachability API is currently used only when connecting to the public swarm
